@@ -1,5 +1,9 @@
 # PV Fault Prediction
 
+## Requirements
+- NumPy
+- Pandas
+- Sklearn
 
 ## Prepare Dataset
 First, run ```covert.py``` to covert the 'xlsx' data file to 'csv' format.
